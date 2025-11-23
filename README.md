@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm McLein👋:
 👨🏻‍💻I am taking up Computer Science at Cagayan State University, Carig Campus<br>💾 I’m currently working on<br>🌱 I’m currently learning Javascript and Git<br>💻Currently planning to be a freelancing student<br><br>Fun Fact:<br>I love playing Lawn Tennis 🎾
 
 
