@@ -190,12 +190,11 @@ Built and maintained the restaurant's public-facing website, focused on responsi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mclein31&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A98DFF&icon_color=8A2BE2&text_color=E0D7FF&border_radius=12" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Mclein31&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A98DFF&fire=6A11CB&currStreakLabel=E0D7FF&border_radius=12" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Mclein31&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A98DFF&fire=6A11CB&currStreakLabel=E0D7FF&border_radius=12" width="60%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mclein31&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A98DFF&text_color=E0D7FF&border_radius=12" width="48%" />
+<img src="https://ghchart.rshah.org/6A11CB/Mclein31" width="100%" />
 
 </div>
 
@@ -203,7 +202,7 @@ Built and maintained the restaurant's public-facing website, focused on responsi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mclein31&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Mclein31&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
