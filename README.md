@@ -78,33 +78,14 @@ I enjoy the full stack of a problem: from schema design and backend architecture
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLM Application Development** | ⭐⭐⭐⭐☆ | Building products powered by the Claude API — prompt design, tool use, and structured outputs |
-| **AI Product Strategy** | ⭐⭐⭐⭐☆ | Competitive analysis, market sizing, and positioning for AI-driven healthcare platforms |
-| **Data Engineering Foundations** | ⭐⭐⭐☆☆ | Relational data modeling, PostgreSQL, and pipeline-oriented system design |
-| **Applied Automation** | ⭐⭐⭐☆☆ | Scripting and GUI automation tools using Python (`pynput`, `tkinter`) |
+| **Prompt Engineering** | ⭐⭐☆☆☆ | Hands-on experience directing ChatGPT and Claude for coding, research, and content workflows |
+| **LLM-Assisted Development** | ⭐⭐☆☆☆ | Using AI tools to accelerate learning, debugging, and prototyping across personal projects |
+| **Local LLMs** | ⭐☆☆☆☆ | Early exploration of running and experimenting with models via Ollama |
+| **Applied Automation** | ⭐⭐☆☆☆ | Scripting and GUI automation tools using Python (`pynput`, `tkinter`) |
 
 </div>
 
 ## ─── Featured Projects
-
-<details>
-<summary><b>🏥 MedCore.ph — AI-Powered Healthcare Management Platform</b></summary>
-<br/>
-
-An AI-powered healthcare management platform concept built for Philippine hospitals, developed as a student startup with a three-person team. The concept merged two earlier ideas — **AlagangPH.ai** and **ClaimBridge** — into a single Philippine-specific solution, positioned against international players like Cedar and Hippocratic AI.
-
-| | |
-|---|---|
-| **Stack** | React.js · React Native / Expo · Supabase · PostgreSQL · Claude API · Twilio |
-| **Scale** | TAM of ~₱6.86B across 1,351 DOH-licensed hospitals |
-| **Performance** | Tiered subscription model across large / medium / small hospital tiers |
-| **Security** | Supabase-backed auth & data layer designed for healthcare-grade access control |
-| **Impact** | Pitch materials prepared for the DTI HUSTLE startup competition |
-| **Repository** | *Private — student venture* |
-
-Led product strategy and market sizing, building a hospital market-sizing model with iterated fee configurations to validate gross profit across hospital tiers, alongside a full competitive analysis against existing healthcare AI players.
-
-</details>
 
 <details>
 <summary><b>🍖 Hanguk Grill — Restaurant Website</b></summary>
@@ -126,6 +107,44 @@ Iterated through two full redesign passes on the Location and Contact sections, 
 </details>
 
 <details>
+<summary><b>🔐 Cipher Shift — Caesar Cipher Application</b></summary>
+<br/>
+
+A basic Caesar Cipher application that encodes and decodes text, extracts text from images, and includes a brute-force tool to identify the most likely decoded message.
+
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Scale** | Single-page utility application |
+| **Performance** | Client-side encode/decode with instant results |
+| **Security** | Includes brute-force decoding to recover messages without a known shift key |
+| **Impact** | Combines classic cryptography concepts with practical text/image extraction |
+| **Repository** | *Available on GitHub* |
+
+Built as a hands-on exploration of cryptography fundamentals, image-based text extraction, and brute-force problem solving.
+
+</details>
+
+<details>
+<summary><b>🌐 Personal Website Portfolio</b></summary>
+<br/>
+
+A responsive portfolio website built to showcase web development projects, technical skills, and academic work.
+
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Scale** | Full personal portfolio site |
+| **Performance** | Fully responsive across devices |
+| **Security** | Static-site delivery with no exposed backend surface |
+| **Impact** | Central hub for projects, skills, and contact information |
+| **Repository** | *Available on GitHub* |
+
+Designed and built end-to-end as the primary showcase for ongoing project and skill development.
+
+</details>
+
+<details>
 <summary><b>💊 MedRec — Personal Medical Records App <i>(In Progress)</i></b></summary>
 <br/>
 
@@ -140,25 +159,11 @@ A mobile application enabling users to securely store, manage, and share their p
 | **Impact** | Aims to simplify medical record portability for patients |
 | **Repository** | *Coming soon* |
 
-Currently in active development as a personal project extending the healthcare-platform thinking from MedCore.ph into a consumer-facing mobile app.
+Currently in active development as a personal project focused on giving patients a simple, centralized way to manage their own medical records.
 
 </details>
 
 ## ─── Experience
-
-**Student Developer & Founder-in-Training** · *MedCore.ph*
-`Ongoing`
-
-Co-developing an AI-powered healthcare management platform concept for the Philippine hospital market as part of a student startup team.
-
-- Conducted market sizing and competitive analysis against Cedar and Hippocratic AI
-- Designed a tiered subscription pricing model across hospital sizes
-- Recommended and validated the core tech stack for the platform
-- Prepared pitch materials for the DTI HUSTLE competition
-
-`React.js` `Supabase` `PostgreSQL` `Claude API` `Product Strategy`
-
----
 
 **Freelance Web Developer** · *Hanguk Grill*
 `Project-based`
