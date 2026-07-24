@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=McLein%20Jei%20Onza&fontSize=48&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%203rd%20Year%20CS%20Student%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Aspiring+Data+Engineer+%7C+Full-Stack+Developer;Turning+messy+problems+into+clean+systems.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Aspiring+Data+Engineer+%7C+Full-Stack+Developer;Turning+messy+problems+into+clean+systems.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://onzamj.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -192,17 +192,13 @@ Built and maintained the restaurant's public-facing website, focused on responsi
 
 <img src="https://streak-stats.demolab.com?user=Mclein31&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A98DFF&fire=6A11CB&currStreakLabel=E0D7FF&border_radius=12" width="60%" />
 
-<br/>
-
-<img src="https://ghchart.rshah.org/6A11CB/Mclein31" width="100%" />
-
 </div>
 
 ## ─── GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Mclein31&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mclein31&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
