@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=McLein%20Jei%20Onza&fontSize=48&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%2F%20LLM%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=McLein%20Jei%20Onza&fontSize=48&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%203rd%20Year%20CS%20Student%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Turning+messy+problems+into+clean+systems.;Building+scalable+data+%26+AI-powered+platforms.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Aspiring+Data+Engineer+%7C+Full-Stack+Developer;Turning+messy+problems+into+clean+systems.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -55,25 +55,21 @@ I enjoy the full stack of a problem: from schema design and backend architecture
 **Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java,postgres" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,java" />
 </p>
 
-**Frontend**
+**Tools**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
 </p>
 
-**Backend & Databases**
+**AI**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" />
-</p>
-
-**Cloud, DevOps & Tooling**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,linux" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
 ## ─── AI / ML Expertise
