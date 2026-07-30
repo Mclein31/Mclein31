@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A11CB&height=220&section=header&text=McLein%20Jei%20Onza&fontSize=48&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%203rd%20Year%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Aspiring+Data+Engineer;Turning+messy+problems+into+clean+systems.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A98DFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Turning+messy+problems+into+clean+systems.;3rd+Year+CS+Student+%40+Cagayan+State+University." alt="Typing SVG" />
 </a>
 
 <br/><br/>
