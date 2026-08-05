@@ -190,25 +190,27 @@ Built and maintained the restaurant's public-facing website, focused on responsi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mclein31&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A98DFF&fire=6A11CB&currStreakLabel=E0D7FF&border_radius=12" width="60%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mclein31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A98DFF&icon_color=8A2BE2&text_color=E0D7FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mclein31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A98DFF&text_color=E0D7FF" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Mclein31&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A98DFF&fire=6A11CB&currStreakLabel=E0D7FF&border_radius=12" width="70%" />
 
 </div>
 
-## ─── Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mclein31&theme=react-dark&bg_color=0D0221&color=A98DFF&line=8A2BE2&point=E0D7FF&area=true&hide_border=true" width="100%" />
-
-</div>
+---
 
 ## ─── Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mclein31/Mclein31/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Mclein31/Mclein31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
+
+---
 
 ## ─── Current Focus
 
@@ -219,12 +221,16 @@ current_focus:
     - Python
     - PostgreSQL
     - Database Design
+
   building:
     project: MedRec
     description: >
-      A mobile application that allows users to securely store, manage,
-      and share their personal medical records in one centralized platform.
+      A mobile application that allows users to securely store,
+      manage, and share their personal medical records in one
+      centralized platform.
 ```
+
+---
 
 ## ─── Connect With Me
 
@@ -233,12 +239,15 @@ current_focus:
 <a href="mailto:mcleinonza0531@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-6A11CB?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/mclein-jei-onza-9b0769322/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/Mclein31" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white" />
 </a>
+
 <a href="https://onzamj.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=vercel&logoColor=white" />
 </a>
@@ -246,6 +255,14 @@ current_focus:
 </div>
 
 ---
+
+<div align="center">
+
+*"Clean systems are built one well-understood problem at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+
+</div>
 
 <div align="center">
 
