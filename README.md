@@ -253,3 +253,12 @@ current_focus:
 </a>
 
 </div>
+---
+
+<div align="center">
+
+*"Clean systems are built one well-understood problem at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+
+</div>
