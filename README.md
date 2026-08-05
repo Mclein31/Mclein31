@@ -230,7 +230,6 @@ current_focus:
       centralized platform.
 ```
 
----
 
 ## ─── Connect With Me
 
@@ -253,7 +252,6 @@ current_focus:
 </a>
 
 </div>
----
 
 <div align="center">
 
