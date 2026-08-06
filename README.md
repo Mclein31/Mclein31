@@ -35,18 +35,20 @@
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/showreel-project.gif" />
 
-I'm a 3rd-year Computer Science student at **Cagayan State University – Carig Campus**, focused on becoming a **Data Engineer** while building deep expertise across **AI/LLM systems** and **modern web development**.
+Hi! I'm **McLein Jei Onza**, a 3rd-year Computer Science student at **Cagayan State University – Carig Campus**.
 
-My work centers on designing reliable data pipelines, building AI-powered platforms for real-world problems, and shipping clean, production-ready interfaces — with an emphasis on data modeling, system design, and turning ambiguous requirements into working software.
+I'm currently exploring different areas of software development, with a growing interest in **Data Engineering**, **AI**, and **web development**. Lately, I've been experimenting with AI tools like **Claude** and building personal projects to improve my skills.
 
-I enjoy the full stack of a problem: from schema design and backend architecture to the polish of a well-built frontend, with AI/LLM integration increasingly at the center of what I build.
+Right now, I'm working on **MedRec**, a mobile application for managing personal medical records, while continuing to learn technologies like React, Python, and PostgreSQL.
 
-**🎯 Open To:**
+Outside of coding, you'll probably find me playing **tennis**, reading **manhwas**, or learning something new.
 
-- Data Engineering internships / entry-level roles
-- AI/LLM-integrated application development
-- Full-stack web development collaborations
-- Open-source contribution opportunities
+**🎯 Currently Looking For**
+
+- Internship opportunities
+- Open-source projects
+- Collaboration on interesting ideas
+- Learning opportunities
 
 <br clear="right"/>
 
