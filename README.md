@@ -41,7 +41,7 @@ I'm currently exploring different areas of software development, with a growing 
 
 Right now, I'm working on **MedRec**, a mobile application for managing personal medical records, while continuing to learn technologies like React, Python, and PostgreSQL.
 
-Outside of coding, you'll probably find me playing **tennis**, reading **manhwas**, or learning something new.
+Outside of coding, you'll probably find me playing **tennis**🎾, reading **manhwas**📚📱, or learning something new📖.
 
 **🎯 Currently Looking For**
 
