@@ -165,19 +165,6 @@ Currently in active development as a personal project focused on giving patients
 
 </details>
 
-## ─── Experience
-
-**Freelance Web Developer** · *Hanguk Grill*
-`Project-based`
-
-Built and maintained the restaurant's public-facing website, focused on responsive layout integrity and bug resolution.
-
-- Rebuilt Location and Contact sections across two design iterations
-- Fixed root-cause CSS issues affecting layout and navigation
-- Standardized responsive breakpoints across the full site
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
 ## ─── Achievements
 
 <div align="center">
