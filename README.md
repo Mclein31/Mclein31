@@ -97,8 +97,6 @@ Award	Event
 
 
 
-
-
 "Clean systems are built one well-understood problem at a time."
 
 
