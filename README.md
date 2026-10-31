@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/Mclein31/Mclein31/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
 </picture>
 
-<a href="https://onzamj.vercel.app/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png">
-  <img src="assets/footer-light.png" width="100%" alt="Let's build something. Open to internships and projects in data engineering, databases and full-stack work. mcleinonza0531@gmail.com">
-</picture></a>
+<p>
+  <a href="https://onzamj.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png"><img src="assets/footer-light.png" width="100%" alt="Let's build something. Open to internships and projects in data engineering, databases and full-stack work. mcleinonza0531@gmail.com"></picture></a>
+</p>
