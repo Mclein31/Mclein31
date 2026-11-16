@@ -10,6 +10,11 @@
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.png">
+  <img src="assets/tools-light.png" width="100%" alt="Tools: Python, PostgreSQL, SQLite, Neon, Supabase, Drizzle, TypeScript, JavaScript, React, Angular, Ionic, Capacitor, Expo, Node.js, Hono, Cloudflare, Vercel, Git, GitHub, VS Code, Cursor, Claude, Gemini and Ollama.">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/work-head-dark.png">
   <img src="assets/work-head-light.png" width="100%" alt="Things I've built.">
 </picture>
@@ -20,11 +25,6 @@
   <a href="https://github.com/Mclein31/Servio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-servio-dark.png"><img src="assets/card-servio-light.png" width="49%" alt="SERVIO: services sold like catalog items, with upfront prices, instant technician matching, live tracking and in-app escrow."></picture></a>
   <a href="https://mulat-media.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mulat-dark.png"><img src="assets/card-mulat-light.png" width="49%" alt="Mulat Media: a multi-page publication platform for campus journalism with article submission workflows and role-based editorial access."></picture></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img src="assets/stack-light.png" width="100%" alt="Five tables, one schema. python_scripting: Python 3, algorithms, OCR extraction, OOP and logic, automation. sql_databases: PostgreSQL, SQL queries, SQLite, schema design, normalization. web_fullstack: JavaScript, HTML5 and CSS3, CSS custom tokens, responsive UI/UX, Vercel. ai_workflows: Google Antigravity, local LLMs with Ollama, Claude and OpenAI APIs, agentic workflows, prompt engineering. toolchain: Git and GitHub, VS Code and Cursor, Unix terminal, browser DevTools.">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-head-dark.png">
